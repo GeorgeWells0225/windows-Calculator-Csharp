@@ -1,0 +1,28 @@
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojResolveAssemblyReference.cache
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.Cache
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+G:\C#\469955\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+G:\C#\469955\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+G:\C#\469955\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+G:\C#\469955\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojResolveAssemblyReference.cache
+G:\C#\469955\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+G:\C#\469955\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+G:\C#\469955\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.Cache
+G:\C#\469955\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+G:\C#\469955\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+D:\Visual Studio Project\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+D:\Visual Studio Project\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+D:\Visual Studio Project\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+D:\Visual Studio Project\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsForms-Csharp-calc.exe.config
+D:\Visual Studio Project\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsForms-Csharp-calc.exe
+D:\Visual Studio Project\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsForms-Csharp-calc.pdb
+D:\Visual Studio Project\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormscalc.Properties.Resources.resources
+D:\Visual Studio Project\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsForms-Csharp-calc.exe
+D:\Visual Studio Project\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsForms-Csharp-calc.pdb
